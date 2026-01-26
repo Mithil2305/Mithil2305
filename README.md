@@ -27,18 +27,7 @@ UI/UX Design | Graphic Design | Video Editing | SEO Content Writing | Project Le
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithil2305&theme=radical" width="47%" />
 </p>
 
----
 
-## 🧩 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Mithil2305?theme=dark&font=Source+Code+Pro&ext=contest" />
-</p>
-
-- 📈 Visit my profile: [leetcode.com/u/Mithil2305](https://leetcode.com/u/Mithil2305/)
-- ✅ Track: Problems Solved, Daily Streak, and Contest Rating
-
----
 
 ## 🧠 Projects & Work Experience
 
