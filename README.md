@@ -4,8 +4,8 @@
 
 I build digital products where **software, AI, data, and thoughtful design** come together. My work ranges from business intelligence and mobile applications to cybersecurity, community platforms, and digital experiences.
 
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readme)](https://drive.google.com/file/d/1oQFjJxqzWGXGq0utbtbPWbrnisXcbWJn/view?usp=sharing)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel)](https://mudmedia.in/portfolio)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readme)](https://drive.google.com/file/d/1xpONgSD2vW5XsHtqzMhZyyIjfQLMBa_l/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel)](https://mithilesh-es.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mithilesh-es)
 
 ---
@@ -67,7 +67,7 @@ A mobile app concept to encourage sustainable farming through accessible, commun
 | **Fitness Wellness App** | Wellness features covering BMI, yoga, mental health, and health tips. | [Repository](https://github.com/Mithil2305/fitness-wellness-app.git) · Spring Boot · JavaScript |
 | **Blood Donation App** | Helps users register, request blood, and find donors. | [Repository](https://github.com/Mithil2305/blood-donation-app.git) · React |
 | **Color Picker Tool** | Lightweight color utility with live previews and hex-code copying. | [Repository](https://github.com/Mithil2305/color-picker.git) · React · Tailwind CSS |
-| **GreenMart — SIH 2024 UI/UX** | Mobile-first e-commerce UX and Figma prototypes. | [View case study](https://mudmedia.in/asserts/projects/uiux/greenmart.pdf) · Figma |
+| **GreenMart — SIH 2024 UI/UX** | Mobile-first e-commerce UX and Figma prototypes. | [View case study](https://mudmedia.vercel.app/asserts/projects/uiux/greenmart.pdf) · Figma |
 
 ---
 
@@ -114,12 +114,12 @@ UI/UX Design · Graphic Design · Video Editing · SEO Content · Project Leader
 
 ## 📫 Let's Connect
 
-- **Email:** [mail.mithilesh.es@gmail.com](mailto:mail.mithilesh.es@gmail.com)
-- **Portfolio:** [mudmedia.in/portfolio](https://mudmedia.in/portfolio)
-- **Resume:** [View resume](https://drive.google.com/file/d/1oQFjJxqzWGXGq0utbtbPWbrnisXcbWJn/view?usp=sharing)
+- **Email:** [mithilesh231105@gmail.com](mailto:mithilesh231105@gmail.com)
+- **Portfolio:** [mudmedia.vercel.app/portfolio](https://mudmedia.in/portfolio)
+- **Resume:** [View resume](https://drive.google.com/file/d/1xpONgSD2vW5XsHtqzMhZyyIjfQLMBa_l/view?usp=sharing)
 - **LinkedIn:** [linkedin.com/in/mithilesh-es](https://linkedin.com/in/mithilesh-es)
 - **GitHub:** [github.com/Mithil2305](https://github.com/Mithil2305)
-- **Mud Media:** [mudmedia.in](https://mudmedia.in)
+- **Mud Media:** [mudmedia.in](https://mudmedia.vercel.app)
 
 > “Build useful things. Make them simple. Keep improving them.”
 
