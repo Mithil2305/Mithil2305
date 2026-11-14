@@ -10,6 +10,15 @@ I build digital products where **software, AI, data, and thoughtful design** com
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mithil2305&show_icons=true&theme=radical&hide_border=true" alt="Mithilesh's GitHub stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Mithil2305&theme=radical&hide_border=true" alt="Mithilesh's GitHub streak" width="48%" />
+</p>
+
+---
+
 ## 🚀 What I'm Building
 
 ### 📊 [Yukti.pro — AI Business Intelligence](https://yukti.pro)
@@ -100,15 +109,6 @@ A mobile app concept to encourage sustainable farming through accessible, commun
 
 **Design & Growth**  
 UI/UX Design · Graphic Design · Video Editing · SEO Content · Project Leadership · Communication
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithil2305&show_icons=true&theme=radical&hide_border=true" alt="Mithilesh's GitHub stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Mithil2305&theme=radical&hide_border=true" alt="Mithilesh's GitHub streak" width="48%" />
-</p>
 
 ---
 
